@@ -1,0 +1,56 @@
+Which of the following are types of compliance training? Select all that apply. |Health and safety training$Anti-harassment and discrimination training$Information security training
+An organization conducts workplace training covering the internal policies and procedures related to honesty and integrity, respect, and upholding the organization's standards. What type of training did they implement? |Code of conduct and ethics training
+True or False: Anti-harassment and discrimination training addresses the unfair treatment of employees based on their beliefs, gender, or other characteristics. |True
+How do HR professionals use an HRM (Human Resource Management) system to streamline employee training? Select all that apply.|To set up training schedules, send reminders for upcoming events, and track employee attendance$To create and maintain centralized training records on training completed, training dates, and results in one location
+Which HRM capability enables HR teams to monitor what trainings employees have finished by maintaining up-to-date training records?|Training completion tracking
+An HR manager conducts a training needs analysis for upcoming management training. What does this analysis enable them to do?|It helps them determine areas where employees may need more training or development to perform their roles effectively.
+By the end of an ethics training program, the objective is for 85% of employees to demonstrate a thorough understanding of ethical principles and adhere to the organization's Code of Conduct. Furthermore, the training aims to achieve a 15% decrease in ethics-related incidents over six months. What training program development step does this apply to?|Create a SMART goal
+True or False: Conducting pre-training and post-training assessments is a common practice for evaluating the effectiveness of training programs.|True
+Which of the following steps involves determining the most appropriate format for delivering a training program to employees?|Select a training type
+True or False: Setting a SMART goal is the final step in creating a training program.|False
+What refers to the stages that an individual goes through in their career, from the beginning of their working life until their retirement? |Career lifecycle
+An employee creates meaningful and relevant roles for themselves within their organization. What stage of the career life cycle are they in? |Establishment
+Which of the following tasks can talent management systems help with? |Performance management
+An HR professional creates a training program in which employees learn individual tasks and concepts and then teach the concepts to others in the group. Which type of learning structure does this refer to?|Cooperative learning
+Employees at an organization access their training courses through an online platform that tracks and reports their progress and reports it to management. What type of software are they using? |Learning management system
+What level of the Kirkpatrick model evaluates how well participants apply the knowledge and skills they learned during training? |The third level, "Behavior"
+What would an organization use to reduce the risks of investing resources in a training program that may or may not be effective?|A pilot test
+An HR manager uses an experimental design to test a training program's effectiveness. What two variables are involved in this process?|Independent and dependent
+What goal-setting tool helps organizations ensure their goals are clear, specific, and feasible?|SMART goals
+What does the total cost of training employees include? Select all that apply.|The cost of training materials, such as books, videos or online modules$Administrative costs like scheduling, registration, and tracking training progress$The cost of the facilities used for the training
+An HR specialist determines the amount of time and effort employees put into the learning process. How might they measure learner engagement? Select all that apply.|Attendance records$Surveys$Interviews$Performance data
+What refers to the lifelong process by which a person manages career choices and tries to fulfill their professional potential?|Career development
+Which of the following is an example of a career development tool?|Skills assessment
+Which stage of Bloom's taxonomy do learners differentiate, organize, relate, compare and contrast, or test their knowledge through critical thinking skills?|Analyze
+True or False: A case study is a teaching method that involves presenting learners with a real or fictional scenario that they analyze and solve based on their knowledge and skills. |True
+A manager aims to encourage employees to work together. They shift employees across the organization through various jobs to increase their interest and motivation. What is this known as? |Job rotation
+True or False: Adult learning and child learning follow the same principles.|False
+An HR professional creates a training program for visual learners. What should they remember about visual learners?|Visual learners learn best by seeing or observing information
+An HR manager identifies promising employees who can fulfill managerial or executive roles in an organization. What area of talent management systems helps them to complete this process?|Succession planning
+Which of the following are types of compliance training? Select all that apply. |Health and safety training$Anti-harassment and discrimination training
+True or False: Code of conduct and ethics training covers an organization's policies and procedures for protecting sensitive information and preventing data breaches.|False
+An HR manager onboarding new employees requires them to attend training presentations and group activities to prevent and address prejudice and bullying. What type of training will help address this issue?|Anti-harassment and discrimination training
+An HR specialist uses an HRM system to analyze employee training data. What does this training analysis involve?|Identifying trends, skills gaps, and where to refine the training program
+Which HRM capability enables HR teams to monitor regulatory training requirements?|Compliance tracking
+Fill in the blank: Creating a _____ provides a clear objective and measurable target that allows you to evaluate the training implementation across the organization.|SMART goal
+An organization creates an anti-harassment and discrimination training program, after which the HR team conducts pre and post-training assessments. What do these assessments enable them to do?|Measure the training program's success
+Which steps are part of creating a training program for employees? Select all that apply.|Design post-training evaluation$Select a training delivery method$Select a training type
+An HR manager designs a post-training evaluation. What does this enable them to do?|Assess the training program's effectiveness by gathering participant feedback
+What are the career lifecycle stages? |Exploration, establishment, maintenance, and disengagement
+An individual assesses their values and interests to identify the type of work they would like to pursue. What stage of the career life cycle does this refer to? |Exploration stage
+What software automates and manages recruitment, onboarding, and learning and development processes? |Talent management systems
+An organization uses a flexible learning approach that engages learners through multiple learning structures. What type of learning structures does the organization use? |Blended learning
+Which of the following are features of a learning management system (LMS)? Select all that apply. |User management$Course management$Tracking and reporting
+An HR manager sends employees pre-tests before and post-tests after they complete a training program. What level of the Kirkpatrick model does this refer to?|The second level, "Learning"
+An HR manager wants to evaluate the effectiveness of a leadership development training program. What testing method can they use?|Experimental design
+A manager sets a SMART goal that helps them reach the organization's long-term objectives. Which part of the SMART acronym does this refer to?|Relevant
+True or False: Training Cost Per Employee is calculated by dividing the total cost of training by the number of employees.|True
+Fill in the blank: To measure learner engagement, _____ can be administered before, during, and after training to gauge the engagement and satisfaction of the learners.|surveys
+An individual prepares to enter the work environment by setting goals and learning relevant skills. After choosing a role, they learn about what education, skills, and other requirements they would need. What career development phase does this refer to? |Preparation
+An organization offers its employees training to gain the skills to advance. What is this training an example of?|Career development tools
+A new manager is paired with an experienced manager. The experienced manager acts out a customer interaction to which the new manager has to respond. The experienced manager then provides feedback. In what stage of Bloom's Taxonomy might this occur?|Analyze
+An HR manager aims to reduce the safety risks and costs of training. What type of training enables them to do that?|Simulation training
+When would an organization use job rotation? Select all that apply. |To promote career development$To develop well-rounded employees$To increase flexibility
+Which of the following characteristics are common in adult learning programs? Select all that apply. |Self-directed$Experiential$Goal-oriented
+Which of the following are examples of training methods for visual learners?|Handouts, books, and articles with illustrations and images
+An HR manager uses talent management systems to automate compensation management. What does compensation management involve?|The legal requirements, pay equity within an organization, and competitive pay within an industry

@@ -1,0 +1,70 @@
+An HR team manages employees' pay and additional offerings. What type of tasks would the HR team typically perform to manage pay and additional offerings? |Establish and maintain compensation and benefits programs for all employees
+An HR manager introduces an increase in employee base salary that compensates for inflation. What is this compensation known as?|Cost of living increase
+Which of the following is a type of differential pay? |Shift pay
+Why must an HR manager consider legal compliance when setting worker pay for an organization?|Pay practices must comply with laws and regulations related to minimum wage, overtime pay, and equal pay for equal work
+What does providing stock and stock options allow employees to do?|Own a portion of an organization
+A social media manager performs exceptionally well during a seasonal social media campaign. Their department lead recognizes their outstanding performance in reaching their goal and awards them a salary increase. What type of increase did the employee receive? |Merit increase
+An HR manager groups positions with common characteristics, such as managers, in the same grade. Then they assign all managers in the organization to a specific pay range. What job evaluation technique did the HR manager use? |Classification
+What tools can an HR professional use to compare their organization's compensation to those offered by similar organizations in the same geographic area?|Consult industry associations to access compensation surveys
+An employee receives a form of payment linked to the organization's desired results. What payment strategy does the organization follow? |Pay for performance
+A retail organization rewards employees for achieving collective sales goals. What type of incentive pay is this? |Group incentive pay
+A fashion retailer rewards employees for acquiring new skills and sets salaries and wages based on the skills of new hires. What type of compensation do they use? |Skill-based pay
+An organization recognizes employee commitments and loyalty by giving them service awards. Which benefits will they likely experience by implementing this recognition program? Select three that apply. |It increases employee retention$It attracts job seekers$It reduces hiring and training costs
+What type of insurance helps reduce the financial difficulties caused by workplace disability and injuries?|Workers' compensation insurance
+An HR specialist determines the cost of benefits by measuring the cost per employee per year. What does this method help them determine? |How effectively the benefits attract and retain talent
+Why are employee wellness programs a good way for an HR team to reduce an organization's healthcare costs?|Wellness programs can help lower healthcare costs by addressing lifestyle matters for employees with a high impact on healthcare expenses.
+An organization aims to introduce mental health resources as part of its healthcare-related benefits. Which of the following might they consider? Select all that apply. |Covering the cost of therapy sessions with psychologists$Offering free subscriptions to mental wellness apps
+Neri at Urban Attire aims to reduce employee expenses by requiring all employees to obtain healthcare from a specific group of providers. Which of the following health insurance plans is best suited to reach this goal? |Health maintenance organizations
+What obligations must organizations follow under the Family and Medical Leave Act (FMLA)?|Provide up to 12 weeks of unpaid leave when employees welcome a new child, care for a family member, or receive medical care
+What should an organization consider when offering onsite child care?|Onsite childcare has risks and is expensive
+An organization offers employees mental health resources and partners with a mental wellness app. What is this an example of? |Employee assistance programs
+Which best practices do employees follow when they have access to unlimited paid time off? |They can take as much time off within reason and the team's needs
+Fill in the blank: Employees can make _____ to qualified retirement plans, such as 401(k) plans, 403(b) plans, and different IRA plans. |salary deferrals
+What is a 401(k)? |A retirement account that allows employees to save part of their wages and invest them in stocks, bonds, mutual funds, and other tools.
+True or False: 457 Retirement Plans are offered by state or local governments and some non-profits, where interest and earnings are tax-deferred.|True
+Which of the following are applicable to both 457(b) plans and 401(k) plans? |Employees can choose to place their contributions into investments and earn money
+As an HR specialist, you are required to keep records of employees personal information. What employee information do you keep? |Information relating to hiring efforts, including applications and employment tests, as well as terminations.
+An HR manager considers implementing an HRIS to help with HR-related tasks. Which of the following should they consider before choosing a system?|Who will have access to the information
+Fill in the blank: _____ has the benefit of being stored in small spaces or on remote servers.|Electronic data storage
+As part of your HR tasks, you are required to handle compensation and benefits-related claims. Which of the following claims might you expect to handle? Select all that apply.|Wage and hour$Workers' compensation
+True or False: Organizations should consult their insurance providers to determine whether they are covered for actual or potential FMLA claims.|True
+As an HR professional, you build and communicate total rewards programs and identify best practices for employee pay. What HR tasks are these related to? |Compensation and benefits
+Fill in the blank: An HR professional would typically review _____ in concurrence with the annual performance reviews|Merit pay
+An organization compensates employees for their availability outside the standard working schedule or working conditions. What form of differential pay could the organization offer to its employees?|On-call pay
+Ely just started at a new company. The company has said that their stock options cannot be fulfilled for the first year. What is this time period known as? |Vesting period
+An organization offers all of its employees a company-wide, set yearly increase. Which of the following might determine what the raise amount is? |The organization's financial performance
+True or False: Asking new employees about their experiences, compensation, perks, and benefits at other organizations is a great way to gather valuable information about compensation in the market.|False
+Fill in the blank: _____ is a form of payment linked to the organization's desired result. .|Pay for performance
+Which of the following is a benefit of using a group incentive pay system? |It is designed to motivate and encourage collaboration and teamwork
+Why would an organization introduce skill-based pay? Select all that apply. |It encourages employees to develop new expertise$It reduces employee turnover$It improves employees' job performance
+An organization recognizes employee commitments and loyalty by giving them service awards. Which benefits will they likely experience by implementing this recognition program? Select three that apply. |It attracts job seekers$It increases employee retention$It reduces hiring and training costs
+As an HR professional responsible for tracking benefit costs, you use the cost per employee per year method. How would you calculate the cost per employee per year for offering benefits?|Divide the total cost of all benefits by the number of employees in the organization
+An organization aims to reduce the cost of paying employee benefits. Which of the following options might they consider to reduce healthcare costs? |Offer defined coverage plans
+Why would an organization include home injuries insurance in its benefits package? |To provide coverage and support for work-from-home injuries and ergonomic-related issues
+An organization offers its employees with high-deductible health plans (HDHPs) a tax-advantaged account that helps them save for medical expenses that HDHPs do not cover. What health insurance plan does the organization offer its employees? |Health maintenance organizations
+An organization offers a retirement account that allows employees to save part of their wages and invest them. What is this known as? |401(k)
+What is a simplified employee pension plan? |A retirement plan that involves employers setting aside money in retirement accounts for employees
+Fill in the blank: Though simpler to manage than organization-owned servers, _____ may require additional effort and communication when it is time to dispose of employees' records. |cloud storage
+As part of your HR tasks, you are required to handle compensation and benefits-related claims. Which of the following claims might you expect to handle? Select all that apply.|Workers' compensation$Wage and hour
+When does a Family and Medical Leave Act (FMLA) violation occur? |When an organization refuses or delays a valid FMLA request
+Which of the following is a typical HR compensation and benefits task?|Create pay structures that maintain internal and external equity
+Which of the following aspects informs base salary decisions? |Pay equity
+An organization offers its employees stocks to encourage them to stay with the organization. What two forms of stock might they offer? |Common and preferred stock
+A sales representative exceeds their annual sales target and receives a 10% raise. What type of raise did they receive? |A performance based-raise
+An HR professional considers various techniques to help them price jobs accurately according to their worth within the organization. Which of the following methods will help them successfully evaluate roles? |Point factor method
+Why would an organization choose to follow a pay-for-performance payment strategy? Select three that apply. |It motivates employees to reach the organization's goals and objectives$It improves morale by rewarding employees$It increases productivity by compensating employees for their performance
+An organization is interested in implementing a group incentive pay system. Which of the following approaches should they consider? |Tying the team manager's compensation to the team's specific goals, putting a portion of their pay "at risk"
+Which of the following is an example of skill pay? |A company compensates employees for completing new software training.
+An organization honors an employee's 5-year milestone by giving them a bonus and a personalized gift. What type of recognition is this? |Service awards
+Which of the following benefits are organizations legally required to offer as part of a benefits package? Select all that apply. |Medicare contributions$Social Security contributions
+An organization offers its employees with high-deductible health plans (HDHPs) a tax-advantaged account that helps them save for medical expenses that HDHPs do not cover. What health insurance plan does the organization offer its employees? |Health savings accounts
+Under the Family and Medical Leave Act, what are the three types of leave? |Continuous, reduced, and intermittent
+An organization offers childcare benefits in the form of a subsidy for employees who have been at the company for a certain amount of time. What childcare benefits do they offer? |Vouchers or discounts
+Which of the following are examples of employee assistance programs (EAPs)? |Counseling and advisory services for personal matters
+Which of the following is usually true about time off allowances? |The more time employees work for a company, the more days off they receive.
+Which of the following should employees consider regarding retirement plans? |Withdrawal from retirement accounts before 59.5 years of age is subject to penalties
+An HR professional creates an employee pay schedule with two different components. What are these two components?|Base salary and overtime pay
+Fill in the blank: A _____ supports all aspects of HR.|comprehensive HRIS
+An HR rep must erase all HR-related digital records on an organization's hard drives. How should they do this? |Perform a DoD 5220.22-M wipe
+True or False: Family and Medical Leave Act, or FMLA, violations can occur when an organization denies leave to an employee.|True
+An employee files a claim for an FMLA violation and seeks legal counsel to initiate the claim process with the Department of Labor. What is HR's role during this process? |HR should maintain accurate communication with internal and external legal representatives

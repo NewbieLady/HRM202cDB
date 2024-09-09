@@ -1,0 +1,19 @@
+True or False: On-the-job training is a cost-effective training method that allows new employees to experience real-world situations.|True
+The HR team at Urban Attire has conducted a survey of employees who recently completed training on new scanner equipment. The training was led by an instructor who showed a slideshow on how to use the equipment. The team discovered that the trainees weren't very satisfied with the training, with many of them saying they would have liked a more hands-on approach so they could practice with the equipment. Why might this be? |There was a learning mismatch.
+Some of the pros of self-paced training include customizability, repeatability, and accessibility. Which of the following are some of the cons? Select all that apply.|Limited networking$Limited feedback
+The Kirkpatrick model of training evaluation assesses which of the following? Select all that apply. |Initial reaction to training materials$Reviewing feedback from the training$Assessing job performance
+Which of the following methods of evaluation involves answering three questions: what happened, why did it happen, and how did it happen or how can it be improved? |After-action
+Which of the following metrics in training can be described as "a comparison of profit versus loss in relation to a particular investment"?|Return on investment
+Which of the following is a reason that learner engagement can be useful in measuring the training cost per employee?|It can help gauge whether the financial cost was worth the improvement in employee knowledge and development.
+Fill in the blank: ______ is the degree of fulfillment felt from the learning received. |Training experience satisfaction
+Fill in the blank: In a pilot test, a ________ consisting of a small number of workers and management evaluate a training program before it is implemented and provide feedback on any changes that need to be made. |Focus group
+Which of the following is training led by employees within the organization?|External training
+True or false: Instructor-led training is not cost effective because we all learn differently. |False
+True or false: In-house training programs are led by employees within the organization, and external training is conducted by outside experts. |True
+True or false: One of the cons of self-paced training is that it is repeatable. |False
+Fill in the blank: _______ evaluates how employees initially react to the training materials, how students learn the new material, assessing job performance, and looking at feedback from the training.|The Kirkpatrick model
+Fill in the blank: After-action reviews answer three questions: what happened, ______, and how did it happen or how can it be improved? |Why did it happen?
+True or false: Return on investment, or ROI is the amount of money that an organization earns from an investment minus the amount of money it cost to make that investment.|True
+Fill in the blank: Learner engagement can be very useful in measuring the training cost per employee, because it helps gauge whether the financial cost was worth it in improving employee knowledge and _____. |Productivity
+True or false: Training experience satisfaction is the degree of satisfaction felt from the learning received and can be gauged using a net promoter score (NPS).|True
+In a pilot test, does a focus group of a small number of workers and management evaluate a training program before or after it is implemented with a larger group and provide feedback on any changes that need to be made?|Before
