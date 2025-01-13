@@ -8,3 +8,13 @@ Who are individuals that agree to do specific work for other people or organizat
 What type of worker is hired from a staffing agency and works short-term?|An independent contractor
 How do most gig workers usually obtain work today?|They are called
 Sam and Devon, who both work for Connective, are adopting a baby. They are both entitled to up to 12 weeks of unpaid absence from work. What law ensures they can take the time off?|Family and Medical Leave Act
+Ray, an employee for Connective, works from home most days, but they are required to go into work for monthly meetings and bi-weekly collaborative work. What type of flexible worker is Ray?|Telecommuter
+What law mandates that employers pay their employees the legal minimum wage?|Fair Labor Standards Act
+Fill in the blank: Most, though not all, workers who are paid by the hour are _____ employees.|Nonexempt employees
+Reviewing your organization's past performance and how these factors correspond to person-hour needs is a good way to begin what forecasting approach?|Ratio analysis
+True or False: The relational approach evaluates all job stages and focuses on all of the job tasks within a process.|False
+What identifies promising employees who have the potential to occupy managerial or executive roles in an organization?|Succession planning
+Who are individuals that agree to do specific work for other people or organizations, but they are not considered employees?|Independent contractors
+What type of worker provides greater flexibility for an organization because they can be employed for just a few days or a full year, depending on the business' needs.|Temporary Employee
+Fill in the blank: companies like Lyft, Uber, Instacart, and Doordash use ____ to accomplish thousands of jobs quickly and efficiently.|Gig workers
+What entitles eligible employees up to a 12 week absence for reasons like the birth of a child or to care for a spouse? ?|Family and Medical Leave Act
