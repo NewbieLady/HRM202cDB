@@ -1,23 +1,23 @@
-An employee receives paid vacation and a 401K plan as part of their compensation. What form of compensation does this refer to? |Benefits
+An employee receives paid vacation and a 401K plan as part of their compensation. What form of compensation does this refer to?|Benefits
 An organization compensates its employees based on their role and performance. What compensation do they pay their employees?|Performance fee
-True or False: An incentive is a monetary or non-monetary reward to motivate an employee, like a bonus or extra time off. |True
+True or False: An incentive is a monetary or non-monetary reward to motivate an employee, like a bonus or extra time off.|True
 An organization provides employees with health insurance and retirement pensions in addition to their base salary. What is this known as?|Benefits
-Fill in the blank: Salary and wages are common types of compensation. _____ is compensation paid in addition to these types of compensation depending on certain situations and conditions. |Differential pay
-What does the federal Fair Labor Standards Act (FLSA) require employers to pay employees? |Overtime pay when they work more than 40 hours in a given week
-An employee receives additional pay after they were asked to come back to work after their regular hours. What pay did they receive? |Call-back pay
-When might an organization consider offering geographic pay? |If they have employees in more than one location
+Fill in the blank: Salary and wages are common types of compensation. _____ is compensation paid in addition to these types of compensation depending on certain situations and conditions.|Differential pay
+What does the federal Fair Labor Standards Act (FLSA) require employers to pay employees?|Overtime pay when they work more than 40 hours in a given week
+An employee receives additional pay after they were asked to come back to work after their regular hours. What pay did they receive?|Call-back pay
+When might an organization consider offering geographic pay?|If they have employees in more than one location
 Fill in the blank: Most organizations that have employees in more than one location provide _____.|geographic pay differentials
-True or False: Company incentives include bonuses, commissions, profit sharing, and life insurance. |False
-Which of the following benefits do organizations typically offer their employees? |Disability pay
-Jae is a non-exempt employee at SliceU, and their manager asks them to work more than 40 hours this week. What is SliceU required to do in this case? |Pay them 1.5 times the base rate for each additional hour worked
+True or False: Company incentives include bonuses, commissions, profit sharing, and life insurance.|False
+Which of the following benefits do organizations typically offer their employees?|Disability pay
+Jae is a non-exempt employee at SliceU, and their manager asks them to work more than 40 hours this week. What is SliceU required to do in this case?|Pay them 1.5 times the base rate for each additional hour worked
 Alex from Connective is not expected to work outside their scheduled hours. However, their manager asked that they be available at a specific time. What type of employee is Alex?|On-call employee
 True or False: Reporting pay is not required under the federal Fair Labor Standard Act (FLSA).|True
-An organization uses the cost of living approach to determine geographic pay differentials. What does this approach include? |Using salary surveys to determine the salary levels for jobs in each location and adjusting their pay scales accordingly
+An organization uses the cost of living approach to determine geographic pay differentials. What does this approach include?|Using salary surveys to determine the salary levels for jobs in each location and adjusting their pay scales accordingly
 An organization creates a compensation program to retain and motivate employees. Which of the following components are typically included in a compensation program?|Annual performance bonuses based on sales targets
 What compensation offers employees a fixed monetary reward for performing standard duties?|Base wage or salary
-Which type of incentive can be traded for ownership stakes in a company in the future? |Stock options
-Which of the following is true about salaries? |It is typically expressed as the amount of money someone makes over a year
+Which type of incentive can be traded for ownership stakes in a company in the future?|Stock options
+Which of the following is true about salaries?|It is typically expressed as the amount of money someone makes over a year
 Which type of pay compensates employees for their time outside of normal working hours? Select two that apply.|Call-back pay$On-call pay
-What is hazard pay? |Pay given to compensate workers for the physical and psychological risks they encounter on the job
-An HR manager aims to evaluate the differences in cost of living to help them determine the salary levels in different locations. How can they find this information? |Use the Cost of Living Index provided by the Council for Community and Economic Research
-An organization creates a compensation program to incentivize employees. Which of the following incentives might they include in their compensation program? |Bonuses, commissions, profit sharing, and extra time off
+What is hazard pay?|Pay given to compensate workers for the physical and psychological risks they encounter on the job
+An HR manager aims to evaluate the differences in cost of living to help them determine the salary levels in different locations. How can they find this information?|Use the Cost of Living Index provided by the Council for Community and Economic Research
+An organization creates a compensation program to incentivize employees. Which of the following incentives might they include in their compensation program?|Bonuses, commissions, profit sharing, and extra time off
