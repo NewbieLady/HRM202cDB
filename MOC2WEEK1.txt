@@ -22,3 +22,13 @@ True or false: When managers need to fill a position, they submit a request to h
 During the hiring process, your company hides candidates' ethnicity and educational institutions to eliminate bias and more fairly assess candidates. What recruitment strategy does this involve?|Blind resume
 Fill in the blank: A _____ includes the role's required educational background and experience; any training relevant to the job; and the skills, knowledge, and characteristics an applicant would need to be successful in the role.|Job specification
 In what process do you choose the most qualified person from a pool of candidates? |Selection
+Fill in the blank: A(n) _____ is used when a company wants to hire a new employee to fill a position.|employee requisition
+You need to hire a new employee that does not currently work at your organization. What type of recruitment should you use?|External recruitment
+What type of recruitment strategy reveals whether a candidate is likely to succeed if they join your organization?|Pre-employment assessments
+What type of recruitment strategy leverages existing workers' professional networks?|Employee resource groups
+Fill in the blank: Creating _____ job descriptions are an essential component of the recruitment process.|inclusive
+What recruitment strategy hides personal information and characteristics that are unrelated to the qualification and experiences needed in the role?|Blind resume
+What type of interview allows an employee to freely respond to a question, which provides the interviewer with an opportunity to ask follow-up questions?|An unstructured interview
+What statement details the tasks performed on a job and the purpose of the job itself.|Job description
+You are creating a listing for a new position in your organization. You include the education, experience, training, and required skills needed for the position. What is this an example of?|Job specification
+You are on the hiring team to hire a new employee for a customer service position at Urban Attire. After a discussion, your group has chosen a qualified person from a pool of candidates. What part of the hiring process is this?|Selection
