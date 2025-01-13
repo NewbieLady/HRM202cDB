@@ -18,3 +18,13 @@ While assessing how inclusive their onboarding is, an HR manager collects employ
 Which of the following is typically part of an employee's first day of onboarding? |Take a tour of the office
 An employee recently joined a new organization and wants to know more about its benefits and time off. What did the employee receive during their onboarding that provides this information?|Employee handbook
 Which of the following might an organization experience if they do not retain their employees? Select three that apply.|Productivity loss$Lower employee morale$High error rates
+When entering a collaborative negotiation with a candidate, the HR manager begins with defining a zone of possible agreement or ZOPA. What does a ZOPA identify?|Where the interests of the candidate and the organization overlap
+An HR manager includes a clause in an employment contract stating that an employee cannot approach the organization's customers, vendors or employees for a specified time after leaving the organization. What is this clause?|*A:Non-solicitation clause
+An HR manager aims to ensure that an employee cannot seek employment with the organization's competitor after leaving the organization. What clause should they include in the employment contract?|Non-compete clause
+How long does employee onboarding typically last?|A month to a year
+Why do new employees meet their team members and direct supervisors during orientation?|To build trust and a sense of belonging
+What is the purpose of employee onboarding?|To facilitate understanding of the organization's procedures in addition to job responsibilities
+Which of the following is typically part of an employee's first day of onboarding?|Take a tour of the office
+An employee recently joined a new organization and wants to know more about its benefits and time off. What did the employee receive during their onboarding that provides this information?|Employee handbook
+An HR manager identifies employees with the potential to fill key roles within an organization in the future. They provide these employees with training and development opportunities. Which retention strategy does this refer to?|Succession planning
+An organization has a low retention rate, and the HR team works to improve this. What are they likely to experience? Select three that apply.|Low engagement from other employees$Loss of management time$High training costs
