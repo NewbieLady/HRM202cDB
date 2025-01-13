@@ -28,3 +28,4 @@ An HR team defines its training and development goals and states that they hope 
 What method do HR teams use to identify employee training goals by examining areas in an organization that could be improved?|Training needs analysis
 What are the resources, strategies, and techniques used to help employees advance their careers?|Career development tools
 True or False: Networking encourages employees to get to know individuals within their industry or in different roles within the organization.|True
+As part of an organization's learning and development planning, the HR team conducts a training needs analysis (TNA). What does this TNA enable them to do?|Identify employee training goals by examining areas in the organization that require improvement
