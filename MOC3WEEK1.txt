@@ -33,3 +33,6 @@ True or False: Prospective employees might be required to take a polygraph test 
 Which of the following refers to behavioral interviews?|Candidates are asked about past behavior as a way to determine their future behavior
 A hiring manager interviews a candidate for a role that will regularly encounter tense and difficult situations while on the job. What type of interview would they conduct?|Stress interview
 Which of the following is an interview best practice?|Ask the same or similar questions to candidates
+What does a successful orientation program enable? Select three that apply.|New hires can comfortably ask questions$New hires can make informed decisions$New hires can resolve issues
+An HR manager aims to create an inclusive onboarding process for new employees. How can they assess whether they are achieving this goal?|Collect data and feedback from new employees
+Which of the following should you consider when calculating the cost of hiring a new employee? Select three that apply.|Interviewing$Screening$Advertising
