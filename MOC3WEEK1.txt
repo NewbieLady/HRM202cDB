@@ -36,3 +36,7 @@ Which of the following is an interview best practice?|Ask the same or similar qu
 What does a successful orientation program enable? Select three that apply.|New hires can comfortably ask questions$New hires can make informed decisions$New hires can resolve issues
 An HR manager aims to create an inclusive onboarding process for new employees. How can they assess whether they are achieving this goal?|Collect data and feedback from new employees
 Which of the following should you consider when calculating the cost of hiring a new employee? Select three that apply.|Interviewing$Screening$Advertising
+An organization uses its website and workplace culture to attract suitable candidates. What talent-sourcing strategy did they use?|Employer branding
+An HR specialist lists job openings on an external website along with the job title, description, and specification. Where could they have done this?|Job board
+True or False: The last step in the talent acquisition life cycle involves using tests to evaluate prospective employees.|True
+What refers to the deliberate, discriminatory language and actions that express prejudiced attitudes toward certain groups?|Explicit bias
