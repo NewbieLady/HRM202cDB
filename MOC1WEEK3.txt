@@ -31,3 +31,13 @@ Alex from Connective is not expected to work outside their scheduled hours. Howe
 When might an organization consider offering geographic pay?|If they have employees in more than one location
 An HR manager aims to evaluate the differences in cost of living to help them determine the salary levels in different locations. How can they find this information?|Use the Cost of Living Index provided by the Council for Community and Economic Research
 True or False: Company incentives include bonuses, commissions, profit sharing, and life insurance.|False
+Why would an organization implement a compensation program? Select all that apply.|To offer employees fair reward for their achievements$To create incentives for future efforts$To retain and motivate employees
+An organization compensates its employees based on their role and performance. What compensation do they pay their employees?|Performance fee
+True or False: An incentive is a monetary or non-monetary reward to motivate an employee, like a bonus or extra time off.|True
+An organization provides employees with health insurance and retirement pensions in addition to their base salary. What is this known as?|Benefits
+An employee is offered additional pay for a work assignment. What is this pay known as?|Differential pay
+What does the federal Fair Labor Standards Act (FLSA) require employers to pay employees?|Overtime pay when they work more than 40 hours in a given week
+Which type of pay compensates employees for their time outside of normal working hours? Select two that apply.|Call-back pay$On-call pay
+True or False: Reporting pay is not required under the federal Fair Labor Standard Act (FLSA).|True
+An HR manager aims to evaluate the differences in cost of living to help them determine the salary levels in different locations. How can they find this information?|Use the Cost of Living Index provided by the Council for Community and Economic Research
+True or False: Company incentives include bonuses, commissions, profit sharing, and life insurance.|False
