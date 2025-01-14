@@ -28,3 +28,5 @@ What license grants the inventor the exclusive right to use or sell an invention
 What is the role of the Taft-Hartley Act in labor relations?|It identifies certain union activities as "unfair labor practices"
 Fill in the blank: Union employees can _____ the union if they are unhappy with its performance.|decertify
 What is the role of the Fair Labor Standards Act (FLSA)?|It sets basic minimum wage and overtime pay standards for nonexempt employees and regulates the employment of minors
+True or False: Job titles and tasks must be identical for the Equal Pay Act and Fair Pay Act to apply.|False
+Which of the following is an example of affirmative action steps?|Communicating open roles to underrepresented groups
