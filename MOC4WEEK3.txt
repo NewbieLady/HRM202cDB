@@ -11,7 +11,6 @@ A retail organization rewards employees for achieving collective sales goals. Wh
 A fashion retailer rewards employees for acquiring new skills and sets salaries and wages based on the skills of new hires. What type of compensation do they use?|Skill-based pay
 An organization recognizes employee commitments and loyalty by giving them service awards. Which benefits will they likely experience by implementing this recognition program? Select three that apply.|It increases employee retention$It attracts job seekers$It reduces hiring and training costs
 What type of insurance helps reduce the financial difficulties caused by workplace disability and injuries?|Workers' compensation insurance
-An HR specialist determines the cost of benefits by measuring the cost per employee per year. What does this method help them determine?|How effectively the benefits attract and retain talent
 Why are employee wellness programs a good way for an HR team to reduce an organization's healthcare costs?|Wellness programs can help lower healthcare costs by addressing lifestyle matters for employees with a high impact on healthcare expenses.
 An organization aims to introduce mental health resources as part of its healthcare-related benefits. Which of the following might they consider? Select all that apply.|Covering the cost of therapy sessions with psychologists$Offering free subscriptions to mental wellness apps
 Neri at Urban Attire aims to reduce employee expenses by requiring all employees to obtain healthcare from a specific group of providers. Which of the following health insurance plans is best suited to reach this goal?|Health maintenance organizations
@@ -98,3 +97,8 @@ Fill in the blank: A _____ supports all aspects of HR.|comprehensive HRIS
 Fill in the blank: _____ has the benefit of being stored in small spaces or on remote servers.|Electronic data storage
 As part of your HR tasks, you are required to handle compensation and benefits-related claims. Which of the following claims might you expect to handle? Select all that apply.|Workers' compensation$Wage and hour
 When does a Family and Medical Leave Act (FMLA) violation occur?|When an organization refuses or delays a valid FMLA request
+Why would an organization introduce skill-based pay? Select all that apply.|It improves employees' job performance$It encourages employees to develop new expertise
+According to The Family and Medical Leave Act, which of the following is an example of continuous leave?|Parental leave
+What are IRA Retirement Plans?|Untaxed retirement savings accounts established through a bank instead of an employer
+An organization offers employees an untaxed retirement savings account established through a bank instead of an employer. What do they offer their employees?|IRA Retirement Plans
+An HR specialist processes claims related to disability benefits. What do these include?|Any benefits awarded to employees who suffer from an injury or illness unrelated to work
