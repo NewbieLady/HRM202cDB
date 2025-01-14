@@ -18,9 +18,8 @@ What would an organization use to reduce the risks of investing resources in a t
 An HR manager uses an experimental design to test a training program's effectiveness. What two variables are involved in this process?|Independent and dependent
 What goal-setting tool helps organizations ensure their goals are clear, specific, and feasible?|SMART goals
 What does the total cost of training employees include? Select all that apply.|The cost of training materials, such as books, videos or online modules$Administrative costs like scheduling, registration, and tracking training progress$The cost of the facilities used for the training
-An HR specialist determines the amount of time and effort employees put into the learning process. How might they measure learner engagement? Select all that apply.|Attendance records$Surveys$Interviews$Performance data
+An HR specialist determines the amount of time and effort employees put into the learning process. How might they measure learner engagement? Select all that apply.|Surveys$Performance data
 What refers to the lifelong process by which a person manages career choices and tries to fulfill their professional potential?|Career development
-Which of the following is an example of a career development tool?|Skills assessment
 Which stage of Bloom's taxonomy do learners differentiate, organize, relate, compare and contrast, or test their knowledge through critical thinking skills?|Analyze
 True or False: A case study is a teaching method that involves presenting learners with a real or fictional scenario that they analyze and solve based on their knowledge and skills.|True
 A manager aims to encourage employees to work together. They shift employees across the organization through various jobs to increase their interest and motivation. What is this known as?|Job rotation
@@ -55,7 +54,6 @@ Which of the following characteristics are common in adult learning programs? Se
 Which of the following are examples of training methods for visual learners?|Handouts, books, and articles with illustrations and images
 An HR manager uses talent management systems to automate compensation management. What does compensation management involve?|The legal requirements, pay equity within an organization, and competitive pay within an industry
 Which of the following are types of compliance training? Select all that apply.|Information security training
-You are an HR professional responsible for implementing an organization's code of conduct and ethics training program. What will this training program include?|Policies and procedures related to preventing and responding to harassment and discrimination in the workplace
 True or False: Anti-harassment and discrimination training addresses the unfair treatment of employees based on their beliefs, gender, or other characteristics.|True
 How do HR professionals use an HRM (Human Resource Management) system to streamline employee training? Select all that apply.|To create and maintain centralized training records on training completed, training dates, and results in one location$To set up training schedules, send reminders for upcoming events, and track employee attendance
 Which of the following statements about using HRM systems for employee training is true?|HRM systems enable HR teams to monitor employee training.
@@ -85,7 +83,6 @@ Which of the following are examples of training methods for visual learners?|Han
 An HR manager uses talent management systems to automate compensation management. What does compensation management involve?|The legal requirements, pay equity within an organization, and competitive pay within an industry
 An HR manager uses talent management systems to automate compensation management. What does compensation management involve?|The legal requirements, pay equity within an organization, and competitive pay within an industry
 Which of the following are types of compliance training? Select all that apply.|Information security training$Anti-harassment and discrimination training$Health and safety training
-You are an HR professional responsible for implementing an organization's code of conduct and ethics training program. What will this training program include?|Policies and procedures related to preventing and responding to harassment and discrimination in the workplace
 You are an HR professional responsible for implementing an organization's anti-harassment and discrimination training program. What does the training program entail?|Preventing and responding to unfair treatment based on gender, race, beliefs, or other characteristics
 An HR specialist uses an HRM system to analyze employee training data. What does this training analysis involve?|Identifying trends, skills gaps, and where to refine the training program
 Which HRM capability enables HR teams to monitor what trainings employees have finished by maintaining up-to-date training records?|Training completion tracking
@@ -106,7 +103,6 @@ A manager sets a SMART goal that helps them reach the organization's long-term o
 What does the total cost of training employees include? Select all that apply.|The cost of training materials, such as books, videos or online modules$The cost of the facilities used for the training$Administrative costs like scheduling, registration, and tracking training progress
 What refers to the amount of time and effort learners put into the learning process?|Learner engagement
 A graduate applies for a job, accepts a job offer, and chooses a career in marketing. What career development phase are they in?|Commitment
-Which of the following is an example of a career development tool?|Skills assessment
 A new manager is paired with an experienced manager. The experienced manager acts out a customer interaction to which the new manager has to respond. The experienced manager then provides feedback. In what stage of Bloom's Taxonomy might this occur?|Analyze
 An HR manager aims to reduce the safety risks and costs of training. What type of training enables them to do that?|Simulation training
 When would an organization use job rotation? Select all that apply.|To increase flexibility$To develop well-rounded employees$To promote career development
@@ -114,3 +110,8 @@ What is the process of acquiring knowledge, skills, and attitudes through educat
 Which of the following are examples of training methods for visual learners?|Handouts, books, and articles with illustrations and images
 An HR manager identifies promising employees who can fulfill managerial or executive roles in an organization. What area of talent management systems helps them to complete this process?|Succession planning
 What type of software automates and manages processes such as compensation and performance management?|Talent management systems
+How do HR professionals use an HRM (Human Resource Management) system to streamline employee training? Select all that apply.|To create and maintain centralized training records on training completed, training dates, and results in one location$To set up training schedules, send reminders for upcoming events, and track employee attendance$To stay up to date with training requirements
+As an HR professional, you create a SMART goal for an upcoming health and safety training program. What is the purpose of setting this goal?|It allows the HR team to track progress and determine the training program's success
+How do you calculate training costs per employee?|Total cost of training divided by the number of employees
+Which of the following types of simulation training would an HR manager use for training employees?|Vestibule training
+When would an organization use job rotation? Select all that apply.|To increase flexibility$To develop well-rounded employees$To promote career development
