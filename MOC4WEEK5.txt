@@ -20,3 +20,4 @@ Which of the following restructuring options describes an organization establish
 Business continuity can be disrupted by many things, but they generally fall into categories like natural threats, man made threats, and biological threats. Which of the following is another type of threat to continuity?|Social
 Which of the following are HR's responsibilities when an organization is conducting a divestiture? Select all that apply.|Gathering information on employees$Ensure that information is available while protecting employee privacy
 Which of the following tasks might HR be responsible for during a furlough? Select all that apply.|Helping decide who gets furloughed$Ensuring compliance with any regulatory requirements$Notifying and explaining the terms of the furlough to affected employees
+Which of the following terms describes when a business unit is partially or completely disposed of through sale, exchange, closure, or bankruptcy.|Divestiture
