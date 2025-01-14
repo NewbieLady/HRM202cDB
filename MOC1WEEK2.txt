@@ -10,7 +10,7 @@ True or False: Networking encourages employees to get to know individuals within
 Which career planning tool focuses on identifying promising employees who have the potential to occupy managerial or executive roles in an organization?|Succession planning
 What is the last phase of career development?|Satisfaction
 True or False: Lectures, tutorials, workshops, and seminars are examples of training methods.|True
-What questions would an HR team ask ahead of doing a training needs analysis to help them determine an organization's training needs? Select all that apply.|What is the training and development budget?$What knowledge, skills, and abilities will an employee need to succeed in their role?$What tasks are required for roles in the organization?
+What questions would an HR team ask ahead of doing a training needs analysis to help them determine an organization's training needs? Select all that apply.|What is the training and development budget?$What knowledge, skills, and abilities will an employee need to succeed in their role?
 What are the resources, strategies, and techniques used to help employees advance their careers?|Career development tools
 An organization aims to use career development tools to help employees advance their careers. Which of the following are tools they can use to achieve this goal?|Volunteer opportunities
 What does succession planning enable HR teams to do?|Identify high-potential employees for managerial or executive roles within an organization
@@ -29,3 +29,5 @@ What method do HR teams use to identify employee training goals by examining are
 What are the resources, strategies, and techniques used to help employees advance their careers?|Career development tools
 True or False: Networking encourages employees to get to know individuals within their industry or in different roles within the organization.|True
 As part of an organization's learning and development planning, the HR team conducts a training needs analysis (TNA). What does this TNA enable them to do?|Identify employee training goals by examining areas in the organization that require improvement
+A high school graduate considers their career plans. After carefully considering their interests and strengths, they decide to become a healthcare provider, focusing on children's health. They research the requirements they need to reach this career goal. What phase of career development is the high school graduate in?|Preparation
+An organization plans activities intended to expand the knowledge or skills of its employees. What does this refer to?|Training
