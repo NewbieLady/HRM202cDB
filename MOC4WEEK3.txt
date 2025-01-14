@@ -102,3 +102,20 @@ According to The Family and Medical Leave Act, which of the following is an exam
 What are IRA Retirement Plans?|Untaxed retirement savings accounts established through a bank instead of an employer
 An organization offers employees an untaxed retirement savings account established through a bank instead of an employer. What do they offer their employees?|IRA Retirement Plans
 An HR specialist processes claims related to disability benefits. What do these include?|Any benefits awarded to employees who suffer from an injury or illness unrelated to work
+An IT professional was requested to remain available during the weekend in case any work arises that falls outside their regular working hours. Why did the employee not receive on-call pay for their time?|Their activities were not restricted while on-call
+Which of the following benefits are organizations legally required to offer as part of a benefits package? Select all that apply.|Social Security contributions$Medicare contributions
+Which of the following fundamental guidelines of retirement plans should employees know?|Employees must be 21 years old and have at least one year of service to qualify
+Why would an organization choose to follow a pay-for-performance payment strategy? Select three that apply.|It motivates employees to reach the organization's goals and objectives$It increases productivity by compensating employees for their performance$It improves morale by rewarding employees
+Why would an organization introduce skill-based pay? Select all that apply.|It improves employees' job performance$It encourages employees to develop new expertise
+An organization recognizes employee commitments and loyalty by giving them service awards. Which benefits will they likely experience by implementing this recognition program? Select three that apply.|It increases employee retention$It reduces hiring and training costs$It attracts job seekers
+Which of the following benefits are organizations legally required to offer as part of a benefits package? Select all that apply.|Social Security contributions$Medicare contributions
+An HR manager wants to assess whether the benefits offered by the organization are worth the costs. Which of the following methods can the HR manager use to determine this?|The annual cost method
+Why would an organization consider telemedicine as part of its healthcare benefits?|Telemedicine offers employees greater convenience and flexibility and fits into their workday regardless of location.
+True or False: Employees do not pay taxes on traditional 401 (k) contributions until withdrawn.|True
+What compensation recognizes employees for their tenure with an organization?|Service awards
+An HR specialist determines the cost of benefits by measuring the cost per employee per year. What does this method help them determine?|Whether only a small portion of employees is using certain benefits
+True or False: Health maintenance organizations reduce the costs of healthcare for employers.|False
+An organization pays employees a base salary for performing their duties. What does this base salary include?|Fixed monetary reward
+Why would an organization consider paying employees semi-monthly instead of weekly?|Weekly pay schedules can be challenging for accounting departments with additional monthly reports to complete.
+An organization sets up retirement accounts for its employees, which they do not contribute to. Once they leave the organization, the employees can collect the funds anytime. What type of retirement plan does the organization provide its employees?|Simplified Employee Pension Plan
+An HR team uses a Human Resource Information System (HRIS) to assist them with recruiting, training, and development tasks. Which type of HRIS are they using?|An operational HRIS
