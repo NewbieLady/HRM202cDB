@@ -43,7 +43,6 @@ What issues can cause conflict over money? Select all that apply.|Payments to ou
 What is the benefit of preventing groupthink in an organization?|A diverse, well-managed team with a range of competencies, thinking patterns, and experiences
 An organization recruits and hires candidates outside their city. What work arrangement allows them to do this?|Telecommuting
 As an HR professional, you maintain employee separation documentation. What do these documents include?|A statement of resignation or a record of the final paycheck
-Which of the following could be considered a core competency?|Customer service skills
 An HR manager drafts an organization's value statement and receives feedback. How can they share the finished value statement with employees?|Publish the values on the organization's website
 Which of the following is true about a code of ethics?|A code of ethics should reinforce a set of values upon which the organization wants to build its culture.
 Which employee communication tool includes huddles, workshops, and status updates?|Meetings
@@ -92,3 +91,6 @@ What do flexible work arrangements enable employees to do?|Customize their work 
 What documents fall under payroll administration?|Pay rate, tax forms, and paid time off requests
 According to ADA, the Americans with Disabilities Act, when may an employer breach confidentiality and disclose employees' medical records?|During workers' compensation claims
 According to OSHA, employers are not required to keep records of non-work-related incidents. Which of the following is an example of a non-work-related incident?|An employee sustains an injury while traveling to the office
+Which of the following refers to employee involvement?|The structure and standards encouraging employees to influence how an organization functions and ensuring that their contributions make a difference
+What performance appraisal method judges an employee based on their conduct as it relates to the job?|Behavioral performance appraisal
+The HR team uses a ranking method to sort the sales team based on each employee's performance. How does this method work?|It lists all employees in order from the best performers to the worst
