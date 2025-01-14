@@ -17,3 +17,7 @@ True or false: Return on investment, or ROI is the amount of money that an organ
 Fill in the blank: Learner engagement can be very useful in measuring the training cost per employee, because it helps gauge whether the financial cost was worth it in improving employee knowledge and _____.|Productivity
 True or false: Training experience satisfaction is the degree of satisfaction felt from the learning received and can be gauged using a net promoter score (NPS).|True
 In a pilot test, does a focus group of a small number of workers and management evaluate a training program before or after it is implemented with a larger group and provide feedback on any changes that need to be made?|Before
+Fill in the blank: On-the-job training allows new employees to experience real-world situations, receive immediate feedback, and _______?|Improve engagement and retention
+True or false: Pilot programs include how employees initially react to the training materials, how students learn the new material, assessing job performance, and looking at feedback from the training.|False
+True or false: Learner engagement can be very useful in measuring the training cost per employee, because it helps predict how long an employee will stay at the company.|False
+True or false: In a pilot test, a focus group consisting of a small number of workers and management evaluate a training program before it is implemented and provide feedback on any changes that need to be made.|True
