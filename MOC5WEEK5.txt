@@ -61,3 +61,33 @@ What is a divestiture?|When a business unit is partially or completely disposed 
 Which section of a risk management policy usually defines who the policy applies to?|Scope
 Which of the following terms describes an informal training opportunity where issues and concerns are identified?|Safety walk
 In addition to state and federal governments, what other group might require compliance training?|An industry group
+What is the third step in the risk management process?|Mitigate or eliminate the risks
+A restaurant is opening a new location. During construction, a small fire breaks out and delays the opening by a month. What type of risk does this situation present?|Negative risk
+An HR manager is trying to define how they perceive, assess, and respond to risk. They are trying to define their risk what?|Mindset
+An HR manager is attempting to approach risk with a positive mindset. Which of the following is a best practice they can follow?|Adopt a proactive approach
+An HR manager is attempting to approach risk with a negative mindset. Which of the following is a benefit of this mindset?|Inspires rational thinking
+A manufacturer requires all employees to complete OSHA compliance training to help keep the workplace safe. What type of compliance is this an example of?|Legal compliance
+Which of the following acts requires that employers accommodate employees with disabilities by making reasonable changes in the workplace?|Americans with Disabilities Act
+What term is used to describe groups of people legally protected from harm or harassment by laws, practices, and policies that discriminate against them due to a shared characteristic?|Protected classes
+What does an impact ratio analysis measure?|If protected groups in an organization are represented fairly compared to the overall labor force
+An HR team is attempting to create a more diverse workforce that is more representative of the local population. Which of the following activities is likely to help them achieve this?|Actively recruit individuals from underrepresented groups
+What type of patent is typically used for inventions?|Utility patent
+What type of union might represent a single group of tradespeople in one city?|Local
+An HR team is reviewing complaints from workers in a plant. Which of the following would be considered a safety issue?|Missing protective gear
+An HR team is revising their workplace rules on medical marijuana. Which of the following items is typically required to certify a person's medical marijuana use?|Medical marijuana card
+What type of workplace hazard is a substance that an employee regularly handles or is present in the work environment that can cause illness or death?|Chemical
+What is vishing?|A cybercrime that uses phone calls to trick individuals into revealing personal information.
+Which of the following federal agencies handles complaints of discrimination and harassment?|Equal Employment Opportunity Commission
+A hostile work environment is generally created by supervisors and co-workers. Which of the following groups can also potentially create a hostile work environment?|Customers
+What generally occurs if an organization goes through a concentration?|Eliminate units that are not supporting profits
+In what phase might an organization encourage current employees to refer candidates for new roles?|Growth
+A local restaurant chain is beginning the process of closing down their table service locations so that they can focus all their efforts on the more profitable counter service. What restructuring process is this an example of?|Concentration
+A clothing company has been working toward expansion. They've noticed a complimentary shoe store that is marketing to the same audience. The clothing company offers to combine their two companies and create one new, joint venture. Which of the following stages of restructuring does this describe?|Merger
+An HR professional is assisting with a downsizing effort at their organization. Which of the following actions will help the employees being let go?|Establish outplacement support
+What is outsourcing?|Paying an outside entity to perform specialized business functions.
+Which of the following is a common HR task associated with risk management?|Focus on preventing risks to stakeholders
+Which section of a risk management policy usually defines the reason the document exists clearly and concisely?|Purpose
+What is the first step in preparing a business continuity plan?|Conduct a business impact analysis
+Which of the following processes should include an introduction to organizational procedures, including safety and risk management for new employees?|Onboarding
+What is a safety walk?|An informal training opportunity where issues and concerns are identified.
+In addition to state and federal governments, what other group might require compliance training?|The organization itself
