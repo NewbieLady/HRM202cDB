@@ -84,3 +84,33 @@ What is the process of acquiring knowledge, skills, and attitudes through educat
 Which of the following are examples of training methods for visual learners?|Handouts, books, and articles with illustrations and images
 An HR manager uses talent management systems to automate compensation management. What does compensation management involve?|The legal requirements, pay equity within an organization, and competitive pay within an industry
 An HR manager uses talent management systems to automate compensation management. What does compensation management involve?|The legal requirements, pay equity within an organization, and competitive pay within an industry
+Which of the following are types of compliance training? Select all that apply.|Information security training$Anti-harassment and discrimination training$Health and safety training
+You are an HR professional responsible for implementing an organization's code of conduct and ethics training program. What will this training program include?|Policies and procedures related to preventing and responding to harassment and discrimination in the workplace
+You are an HR professional responsible for implementing an organization's anti-harassment and discrimination training program. What does the training program entail?|Preventing and responding to unfair treatment based on gender, race, beliefs, or other characteristics
+An HR specialist uses an HRM system to analyze employee training data. What does this training analysis involve?|Identifying trends, skills gaps, and where to refine the training program
+Which HRM capability enables HR teams to monitor what trainings employees have finished by maintaining up-to-date training records?|Training completion tracking
+An organization is creating an information security training program. What first step would you recommend when designing the training experience?|Conduct a training needs analysis
+By the end of an ethics training program, the objective is for 85% of employees to demonstrate a thorough understanding of ethical principles and adhere to the organization's Code of Conduct. Furthermore, the training aims to achieve a 15% decrease in ethics-related incidents over six months. What training program development step does this apply to?|Create a SMART goal
+True or False: Conducting pre-training and post-training assessments is a common practice for evaluating the effectiveness of training programs.|True
+Which of the following steps involves determining the most appropriate format for delivering a training program to employees?|Select a training type
+True or False: Setting a SMART goal is the final step in creating a training program.|False
+What is a career lifecycle?|The stages an individual goes through in their career, from the beginning of their working life until their retirement
+What happens during the maintenance stage of a career lifecycle?|Individuals reach a point in their careers where their talent is optimized
+Which of the following tasks can talent management systems help with?|Performance management
+An HR professional creates a training program in which employees learn individual tasks and concepts and then teach the concepts to others in the group. Which type of learning structure does this refer to?|Cooperative learning
+What is a learning management system (LMS)?|A software system used to create, administer, document, track, report on, and deliver online educational courseware
+An HR manager sends employees pre-tests before and post-tests after they complete a training program. What level of the Kirkpatrick model does this refer to?|The second level, "Learning"
+A focus group evaluates a training before it is implemented and provides feedback on any changes needed. What type of evaluation is this?|Pilot test
+An HR manager wants to evaluate the effectiveness of a leadership development training program. What testing method can they use?|Experimental design
+A manager sets a SMART goal that helps them reach the organization's long-term objectives. Which part of the SMART acronym does this refer to?|Relevant
+What does the total cost of training employees include? Select all that apply.|The cost of training materials, such as books, videos or online modules$The cost of the facilities used for the training$Administrative costs like scheduling, registration, and tracking training progress
+What refers to the amount of time and effort learners put into the learning process?|Learner engagement
+A graduate applies for a job, accepts a job offer, and chooses a career in marketing. What career development phase are they in?|Commitment
+Which of the following is an example of a career development tool?|Skills assessment
+A new manager is paired with an experienced manager. The experienced manager acts out a customer interaction to which the new manager has to respond. The experienced manager then provides feedback. In what stage of Bloom's Taxonomy might this occur?|Analyze
+An HR manager aims to reduce the safety risks and costs of training. What type of training enables them to do that?|Simulation training
+When would an organization use job rotation? Select all that apply.|To increase flexibility$To develop well-rounded employees$To promote career development
+What is the process of acquiring knowledge, skills, and attitudes through educational activities or experiences specifically designed for post-childhood education?|Adult learning
+Which of the following are examples of training methods for visual learners?|Handouts, books, and articles with illustrations and images
+An HR manager identifies promising employees who can fulfill managerial or executive roles in an organization. What area of talent management systems helps them to complete this process?|Succession planning
+What type of software automates and manages processes such as compensation and performance management?|Talent management systems
