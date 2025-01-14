@@ -38,3 +38,7 @@ Which of the following pay-for-performance strategies helps to incentivize emplo
 How can organizations avoid wage compression?|Increase underpaid employees' salaries
 Alex earns a fraction of each sale they make. What commission does Alex earn?|Percentage of sales
 Neri, an HR professional at Urban Attire, is designing a clear and employee-friendly incentive program. Which of the following incentives should Neri consider to motivate employees? Select all that apply.|Bonuses$Profit sharing$Commissions
+True or False: Internal equity ensures that jobs of similar value receive different compensation.|False
+Which of the following could you use to compare your organization's compensation packages and another organization's compensation packages?|Ask new employees about their experiences, compensation, perks, and benefits at other organizations
+A high-performing candidate is interested in joining an organization that offers a performance-based pay structure. How will this impact their compensation if the organization hires them?|Pay for performance is reflected in an employee's base salary and incentives.
+An organization motivates its employees by offering them raises. Which of the following are raises the organization may provide to their employees? Select three that apply.|Merit increases$Annual raises$Performance-based raises
