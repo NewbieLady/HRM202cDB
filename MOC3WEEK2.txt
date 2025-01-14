@@ -30,3 +30,7 @@ Fill in the blank: Return on investment, or ROI, is the amount of ______ that an
 Which of the following is a reason that learner engagement can be useful in measuring the training cost per employee?|It can help gauge whether the financial cost was worth the improvement in employee knowledge and development.
 True or false: Training experience satisfaction is the degree of satisfaction felt from the learning received and can be gauged using a net promoter score (NPS).|True
 True or false: In a pilot test, a focus group consisting of a small number of workers and management evaluate a training program before it is implemented and provide feedback on any changes that need to be made.|True
+Fill in the blank: Self-paced learning can be more _____ than instructor-led training because it does not require hiring an instructor or providing a venue.|Cost-effective
+Training experience satisfaction is the degree of satisfaction felt from the learning received. Satisfaction data can be gathered in a few different ways, including which of the following? Select two that apply.|Surveys$Focus groups
+Which of the following is training led by employees within the organization?|In-house training
+Some of the pros of self-paced training include customizability, repeatability, and accessibility. Which of the following are some of the cons? Select all that apply.|Limited feedback$Limited networking
