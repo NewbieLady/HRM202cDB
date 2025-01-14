@@ -26,3 +26,14 @@ An organization motivates its employees by offering them raises. Which of the fo
 Fill in the blank: _____ ensures that jobs of similar value to an organization receive equal compensation.|Internal equity
 What are the consequences of wage compression?|It causes uncertainty about an organization's fairness
 Alex earns a fraction of each sale they make. What commission does Alex earn?|Percentage of sales
+True or False: A 100% compa-ratio means an employee is paid at the exact midpoint of the salary range.|True
+What process does an HR professional follow to establish the monetary worth of a particular job based on its internal and external market value?|Job pricing
+What is the agreed upon compensation given to an employee when they join a company?|Base pay
+An organization motivates its employees by offering them raises. Which of the following are raises the organization may provide to their employees? Select three that apply.|Annual raises$Performance-based raises$Merit increases
+An organization uses a process to create a limited number of salary bands with a large difference between the minimum and maximum pay levels. What happens to jobs in this case?|Broadbanding
+What does a compa ratio higher or lower than 100% indicate?|That an employee is either overpaid or underpaid
+An HR manager uses multiple salary surveys to compare their organization's internal pay levels with those of other organizations. What is the primary purpose of conducting these comparisons?|To achieve internal pay equity
+How can HR professionals compare an organization's compensation packages with other organizations|Use industry associations to access compensation surveys and stay up-to-date on compensation trends
+Which of the following pay-for-performance strategies helps to incentivize employees?|Location-based pay
+How can organizations avoid wage compression?|Increase underpaid employees' salaries
+Alex earns a fraction of each sale they make. What commission does Alex earn?|Percentage of sales
