@@ -12,7 +12,6 @@ Which type of learners typically process information through materials such as P
 A sales team lead demonstrates excellent communication and organizational abilities to meet targets. Which part of the KSA model does this refer to?|The instinctive talents or traits that an employee brings to the job
 True or False: The "learning level" in Kirkpatrick's model evaluates how much employees gain in knowledge, skills, and attitudes.|True
 Which teaching method involves presenting employees with a real or fictional scenario they analyze and solve based on their knowledge and skills?|Case study
-An HR team conducts an apprenticeship program within an organization and identifies employees to participate. What would the employees do as an apprentice?|Manage a team of employees and conduct on-the-job training
 How does job rotation increase flexibility in an organization?|Employees with diverse skills and knowledge can adapt to changing customer needs or markets
 Why would an organization consider offering internships?|The organization wants to enhance diversity and inclusion
 True or False: Adult learning is generally conceptual and theoretical, avoiding skills-bases, practical education.|False
@@ -26,3 +25,7 @@ According to the Kirkpatrick training evaluation model, which level involves ask
 Fill in the blank: _____ is used to teach practical tasks, train new employees, deliver customized training, maintain cost-effectiveness, and demonstrate the application of knowledge.|Hands-on-training
 In which of the following situations would job instruction training be effective? Select two that apply.|Training in a fast-paced environment$Training one-on-one
 When should an organization avoid apprenticeship training? Select all that apply.|The organization has limited resources$Limited time available for training$The task is simple and routine
+After sharing a sales manual with the sales team and asking them to explain the ideas they've learned, an HR manager brings the sales team together to work in groups and problem-solve various sales-related scenarios. What level of Bloom's taxonomy does this refer to?|Apply
+An HR manager moves employees across various jobs to increase their interest and motivation in their individual roles and within the organization. What type of training does this refer to?|Job rotation
+Which of the following are qualities of adult learning programs? Select three that apply.|Goal-oriented$Self-directed$Practical
+Which of the following training methods is best suited for tactile learners? Select three that apply.|Group activities, such as games, team-building exercises, or scavenger hunts$Hands-on activities, experiments, simulations, or projects$Learning tools like virtual reality, interactive whiteboards, and motion-based controllers
