@@ -32,3 +32,7 @@ What type of interview allows an employee to freely respond to a question, which
 What statement details the tasks performed on a job and the purpose of the job itself.|Job description
 You are creating a listing for a new position in your organization. You include the education, experience, training, and required skills needed for the position. What is this an example of?|Job specification
 You are on the hiring team to hire a new employee for a customer service position at Urban Attire. After a discussion, your group has chosen a qualified person from a pool of candidates. What part of the hiring process is this?|Selection
+You need to create a new position in your organization, but you want to hire an existing employee that has the skills to fit the role. What type of recruitment should you use?|Internal recruitment
+What type of recruitment strategy promotes diversity and inclusion using existing workers' assistance with talent acquisition, engagement, and professional networking?|Employee resource groups
+What is a written document that describes an employee's work tasks and responsibilities?|Job description
+What process is used for choosing the best candidate for a job?|Selection
