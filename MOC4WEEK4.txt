@@ -62,3 +62,33 @@ As an HR professional, what would you use an HRM system for?|To monitor employee
 What is strategic planning?|The process of defining an organization's direction for the future in four stages
 What is an example of a functional organization structure?|An organization's finance department is grouped according to their skills into accounting, financial planning, and treasury teams
 According to OSHA, what low-risk industries are partially exempt from keeping a complete record of work-related illnesses and injuries? Select all that apply.|Car dealerships$Software publishers
+What is an example of core competencies in an organization?|Knowledge of laws and regulations
+An HR manager drafts an organization's value statement and receives feedback. How can they share the finished value statement with employees?|Publish the values on the organization's website
+What are the most important parts an effective code of ethics?|Explicit and unambiguous rules
+During meetings, what information might managers and HR typically communicate with employees? Select all that apply.|Customer service standards$Conflict resolution guidelines$Performance updates
+Why would an HR team offer employees' ongoing training instead of one-off training?|Continuous learning keeps an organization's vision and mission top of mind
+What is an employment relationship?|The legal link between employers and employees
+An HR team changes policies to address discriminatory incidents and achieve diversity objectives. What do the policy changes enable?|Clear guidelines for behavior and specific penalties for those who violate these policies
+True or False: Committees are groups that address ongoing issues within an organization.|True
+What is a compressed work schedule?|A work schedule that allows employees to perform a certain number of work hours in fewer work days each week
+An HR team creates a survey to measure employee engagement. Which of the following is one thing the survey questions should focus on uncovering?|Employees' intent to stay with the organization
+Which step in the performance management cycle involves discussing an employee's performance with them and identifying areas to improve?|Provide feedback
+What key characteristic is essential to an effective performance evaluation process?|Consistency
+What is the purpose of the Management by Objectives (MBO) process?|To align employees and their managers, enabling them to set clear and measurable objectives or goals.
+Which of the following statements is true about a performance appraisal?|A manager provides specific feedback and documents the employee's performance for future employment decisions
+How does the BARS employee evaluation method work?|A series of statements describe how the employee's behavior matches the task, and each statement corresponds to a numerical rating for the task.
+What does the comparison performance appraisal method compare?|How an individual employee's performance compares to other employees
+How does the rating performance appraisal method work?|It uses numerical ratings or rankings for performance appraisals
+An organization lists an employee's role as follows: Customer Service Representative: Handles demanding customers and other customer-related situations cooperatively, politely, and helpfully. A manager then rates the employee's customer service skills on a scale from 1 to 5. What method did they use?|Graphic rating scale
+Which of the following should you consider during the performance appraisal process?|It is important to restate or reset expectations
+What is a common reason for dismissing an employee?|Unsatisfactory performance
+Fill in the blank: Progressive discipline is a form of organizational _____. This means employees will be notified of impending actions and will be allowed to defend themselves, if necessary, before any employment decisions are made.|due process
+Two employees disagree about who should be in charge of a project. What type of workplace conflict does this describe?|Conflicts involving power
+What is the benefit of preventing groupthink in an organization?|A diverse, well-managed team with a range of competencies, thinking patterns, and experiences
+As an HR professional, what would you use an HRM system for?|To monitor employee attendance and disciplinary actions
+What are the four stages of strategic planning?|Analysis, development, implementation, and evaluation
+An organization groups its departments according to specialties, such as Sales, Accounting, Administration, Marketing, Operations, Human Resources, and IT. What organizational structure does this describe?|Functional structure
+What do flexible work arrangements enable employees to do?|Customize their work hours and days
+What documents fall under payroll administration?|Pay rate, tax forms, and paid time off requests
+According to ADA, the Americans with Disabilities Act, when may an employer breach confidentiality and disclose employees' medical records?|During workers' compensation claims
+According to OSHA, employers are not required to keep records of non-work-related incidents. Which of the following is an example of a non-work-related incident?|An employee sustains an injury while traveling to the office
