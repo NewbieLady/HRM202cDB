@@ -21,3 +21,8 @@ While creating a training plan for a sales team, an HR manager recognizes that a
 Fill in the blank: _____ is a technique in which employees act out a scenario or situation to practice and develop specific skills or behaviors.|Roleplay
 When should an internship NOT be used as a form of training?|When roles require specialized knowledge or expertise
 Which of the following training methods is best suited for tactile learners? Select three that apply.|Group activities, such as games, team-building exercises, or scavenger hunts$Hands-on activities, experiments, simulations, or projects$Learning tools such as language learning apps or audiobooks
+At which level of Bloom's taxonomy framework would employees be required to discuss and describe a topic or concept?|Understand
+According to the Kirkpatrick training evaluation model, which level involves asking employees questions such as "Did you find the training program useful?" or "Did the training program meet your expectations?"|Reaction
+Fill in the blank: _____ is used to teach practical tasks, train new employees, deliver customized training, maintain cost-effectiveness, and demonstrate the application of knowledge.|Hands-on-training
+In which of the following situations would job instruction training be effective? Select two that apply.|Training in a fast-paced environment$Training one-on-one
+When should an organization avoid apprenticeship training? Select all that apply.|The organization has limited resources$Limited time available for training$The task is simple and routine
