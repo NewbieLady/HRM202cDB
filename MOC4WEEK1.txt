@@ -28,3 +28,7 @@ Which of the following is typically part of an employee's first day of onboardin
 An employee recently joined a new organization and wants to know more about its benefits and time off. What did the employee receive during their onboarding that provides this information?|Employee handbook
 An HR manager identifies employees with the potential to fill key roles within an organization in the future. They provide these employees with training and development opportunities. Which retention strategy does this refer to?|Succession planning
 An organization has a low retention rate, and the HR team works to improve this. What are they likely to experience? Select three that apply.|Low engagement from other employees$Loss of management time$High training costs
+True or False: A non-compete clause states that an employee cannot seek employment with a competitor for a specified time after leaving an organization.|True
+What does a successful orientation program enable? Select three that apply.|New hires can resolve issues$New hires can make informed decisions$New hires can comfortably ask questions
+During an employee's first day, they receive information regarding employee procedures, policies, and benefits. What did they receive?|An employee handbook
+Which best practice will help HR determine how satisfied employees are with an organization?|Conduct stay interviews
