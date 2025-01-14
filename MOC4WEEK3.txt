@@ -68,3 +68,33 @@ Fill in the blank: A _____ supports all aspects of HR.|comprehensive HRIS
 An HR rep must erase all HR-related digital records on an organization's hard drives. How should they do this?|Perform a DoD 5220.22-M wipe
 True or False: Family and Medical Leave Act, or FMLA, violations can occur when an organization denies leave to an employee.|True
 An employee files a claim for an FMLA violation and seeks legal counsel to initiate the claim process with the Department of Labor. What is HR's role during this process?|HR should maintain accurate communication with internal and external legal representatives
+An HR team manages employees' pay and additional offerings. What type of tasks would the HR team typically perform to manage pay and additional offerings?|Establish and maintain compensation and benefits programs for all employees
+Fill in the blank: An HR professional would typically review _____ in concurrence with the annual performance reviews|Merit pay
+Which of the following is a type of differential pay?|Shift pay
+An HR professional determines whether their organization pays their employees a fair market wage relative to other organizations in the same industry and location. What term describes this compensation consideration?|Competitive pay
+What does providing stock and stock options allow employees to do?|Own a portion of an organization
+A sales representative exceeds their annual sales target and receives a 10% raise. What type of raise did they receive?|A performance based-raise
+Fill in the blank: In job evaluation, the _____ is a combination of the ranking and points factor methods.|Factor comparison method
+What group might be able to provide you with compensation surveys to help compare compensation packages to those offered by other similar, local competitors?|Industry associations
+Why would an organization choose to follow a pay-for-performance payment strategy? Select three that apply.|It improves morale by rewarding employees$It motivates employees to reach the organization's goals and objectives$It increases productivity by compensating employees for their performance
+A retail organization rewards employees for achieving collective sales goals. What type of incentive pay is this?|Group incentive pay
+Why would an organization introduce skill-based pay? Select all that apply.|It improves employees' job performance$It encourages employees to develop new expertise$It reduces employee turnover
+An organization honors an employee's 5-year milestone by giving them a bonus and a personalized gift. What type of recognition is this?|Service awards
+Which of the following benefits are organizations legally required to offer as part of a benefits package? Select all that apply.|Social Security contributions$Medicare contributions
+As an HR professional responsible for tracking benefit costs, you use the cost per employee per year method. How would you calculate the cost per employee per year for offering benefits?|Divide the total cost of all benefits by the number of employees in the organization
+A manufacturing company relies on preferred provider organizations, or PPOs, to reduce the cost of offering its employees health benefits. How do PPOs impact employees?|Employees must use health services provided by the PPO to pay a reduced rate
+Why would an organization include home injuries insurance in its benefits package?|To provide coverage and support for work-from-home injuries and ergonomic-related issues
+Neri at Urban Attire aims to reduce employee expenses by requiring all employees to obtain healthcare from a specific group of providers. Which of the following health insurance plans is best suited to reach this goal?|Health maintenance organizations
+What obligations must organizations follow under the Family and Medical Leave Act (FMLA)?|Provide up to 12 weeks of unpaid leave when employees welcome a new child, care for a family member, or receive medical care
+An organization offers employees assistance with finding information as part of its childcare benefits. What does this involve?|Sharing data about the cost and quality of available childcare with employees
+Fill in the blank: Some _____ provide counseling and advisory services for personal issues, including child and elder care, adoption assistance, mental health counseling, and life event planning.|Employee assistance programs
+Neri at Urban Attire receives paid and unpaid time off from work. Which factors determine whether Neri's time off will be paid or unpaid? Select three that apply.|The amount of time in their paid time allotment$The reason for the time off$The length of time-off requested
+Which of the following should employees consider regarding retirement plans?|Withdrawal from retirement accounts before 59.5 years of age is subject to penalties
+An organization offers a retirement account that allows employees to save part of their wages and invest them. What is this known as?|401(k)
+True or False: 457 Retirement Plans are offered by state or local governments and some non-profits, where interest and earnings are tax-deferred.|True
+Which of the following are applicable to both 457(b) plans and 401(k) plans?|Employees can choose to place their contributions into investments and earn money
+An HR professional creates an employee pay schedule with two different components. What are these two components?|Base salary and overtime pay
+Fill in the blank: A _____ supports all aspects of HR.|comprehensive HRIS
+Fill in the blank: _____ has the benefit of being stored in small spaces or on remote servers.|Electronic data storage
+As part of your HR tasks, you are required to handle compensation and benefits-related claims. Which of the following claims might you expect to handle? Select all that apply.|Workers' compensation$Wage and hour
+When does a Family and Medical Leave Act (FMLA) violation occur?|When an organization refuses or delays a valid FMLA request
