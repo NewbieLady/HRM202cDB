@@ -7,7 +7,6 @@ Which of the following metrics in training can be described as "a comparison of 
 Which of the following is a reason that learner engagement can be useful in measuring the training cost per employee?|It can help gauge whether the financial cost was worth the improvement in employee knowledge and development.
 Fill in the blank: ______ is the degree of fulfillment felt from the learning received.|Training experience satisfaction
 Fill in the blank: In a pilot test, a ________ consisting of a small number of workers and management evaluate a training program before it is implemented and provide feedback on any changes that need to be made.|Focus group
-Which of the following is training led by employees within the organization?|External training
 True or false: Instructor-led training is not cost effective because we all learn differently.|False
 True or false: In-house training programs are led by employees within the organization, and external training is conducted by outside experts.|True
 True or false: One of the cons of self-paced training is that it is repeatable.|False
