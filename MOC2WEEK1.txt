@@ -38,3 +38,7 @@ What is a written document that describes an employee's work tasks and responsib
 What process is used for choosing the best candidate for a job?|Selection
 An HR specialist lists job openings on an external website along with the job title, description, and specification. Where could they have done this?|Job board
 What type of background check would an organization use to determine if an application is suitable to work with children or be a security guard?|Criminal record check
+Which step in the talent acquisition life cycle includes using bias-free interview techniques?|Candidate screening
+An organization uses its website and workplace culture to attract suitable candidates. What talent-sourcing strategy did they use?|Employer branding
+An HR specialist lists job openings on an external website along with the job title, description, and specification. Where could they have done this?|Job board
+What type of background check would an organization use to determine if an application is suitable to work with children or be a security guard?|Criminal record check
