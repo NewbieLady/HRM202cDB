@@ -27,3 +27,6 @@ Which of the following do managers typically achieve during team meetings? Selec
 Why would an organization consider training as part of its employee communication strategy?|Mandatory and voluntary training programs cover several areas, such as core principles and ethical standards.
 When creating a vision statement, it is essential to make it ambitious. What does this mean?|It should inspire people to value an organization's mission
 Fill in the blank: A _____ should not contradict or violate any union agreements, government regulations or mandates, or civil rights of the employees, but it should help guide employee actions.|code of ethics
+What characteristic is always true of company ethics?|Company ethics state an organization's principles, social responsibilities and obligations, and long-term goals.
+What are the four characteristics of a mission statement?|Mission statements should be simple, captivating, measurable, and relevant.
+An HR rep creates a communication strategy with the aim of effectively sharing information such as the company’s values and ethics. Which three primary delivery methods should they include in this communication strategy? Select all that apply.|Training$Email$An employee handbook
