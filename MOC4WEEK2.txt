@@ -115,3 +115,21 @@ As an HR professional, you create a SMART goal for an upcoming health and safety
 How do you calculate training costs per employee?|Total cost of training divided by the number of employees
 Which of the following types of simulation training would an HR manager use for training employees?|Vestibule training
 When would an organization use job rotation? Select all that apply.|To increase flexibility$To develop well-rounded employees$To promote career development
+As an HR professional, you create a SMART goal for an upcoming health and safety training program. What is the purpose of setting this goal?|It allows the HR team to track progress and determine the training program's success
+Which of the following are features of a learning management system (LMS)? Select all that apply.|User management$Course management$Tracking and reporting
+Fill in the blank: There are four levels of evaluation in the _____: reaction, learning behavior, and results.|Kirkpatrick Model
+What does the total cost of training employees include? Select all that apply.|Administrative costs like scheduling, registration, and tracking training progress$The cost of the facilities used for the training$The cost of training materials, such as books, videos or online modules
+When would an organization use job rotation? Select all that apply.|To promote career development$To develop well-rounded employees$To increase flexibility
+How do HR professionals use an HRM (Human Resource Management) system to streamline employee training? Select all that apply.|To stay up to date with training requirements$To set up training schedules, send reminders for upcoming events, and track employee attendance$To create and maintain centralized training records on training completed, training dates, and results in one location
+An HR professional is designing a training program for an organization. What four types of learning structures should they consider to create the most effective learning experience for employees?|Parallel, simulated, cooperative, blended
+How do you calculate training costs per employee?|Total cost of training divided by the number of employees
+An individual uses techniques, resources and strategies to plan, manage and advance their career in sales. What are these referred to as a whole?|Career development tools
+True or False: Tactile, or kinesthetic learners learn best by doing and experiencing information.|True
+As an HR manager in a highly regulated industry, you must ensure that employees understand and work within various regulations. You implement a training program to meet these regulatory requirements. What type of training did you implement?|Compliance training
+True or False: An HRM system is a software platform designed to streamline and automate various HR processes, including employee data management, payroll, benefits, administration, recruitment, and training management.|True
+Fill in the blank: ______ is a framework for learning, teaching, and achievement.|Bloom's Taxonomy
+True or False: When creating a training program, it is necessary to create a SMART goal first, then conduct a training needs analysis.|False
+What type of software automates and manages processes such as compensation and performance management?|Talent management systems
+An HR professional is designing a training program for an organization. What four types of learning structures should they consider to create the most effective learning experience for employees?|Parallel, simulated, cooperative, blended
+You are an HR professional responsible for implementing an organization's code of conduct and ethics training program. What will this training program include?|Policies and procedures related to morally correct behavior, conflicts of interest, and other relevant topics
+An HR manager identifies promising employees who can fulfill managerial or executive roles in an organization. What area of talent management systems helps them to complete this process?|Succession Planning
