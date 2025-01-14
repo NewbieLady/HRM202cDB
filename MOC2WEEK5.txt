@@ -30,3 +30,8 @@ Fill in the blank: Union employees can _____ the union if they are unhappy with 
 What is the role of the Fair Labor Standards Act (FLSA)?|It sets basic minimum wage and overtime pay standards for nonexempt employees and regulates the employment of minors
 True or False: Job titles and tasks must be identical for the Equal Pay Act and Fair Pay Act to apply.|False
 Which of the following is an example of affirmative action steps?|Communicating open roles to underrepresented groups
+How does an availability analysis enable HR teams to determine if discrimination occurs in the workplace?|Availability analyses examine how many individuals from protected classes qualify, have the necessary skills, and live in the areas to qualify for employment.
+What is affirmative action?|A process designed to correct previous inequality that may have existed for certain groups or classes of people
+What activities does the Taft-Hartley Act define as unfair labor practices?|Unions forcing employees to join a union
+Which of the following are key elements of affirmative action programs? Select all that apply.|Developing Action Steps$Developing Goals and Timetables$Utilization Analysis
+Which act made it illegal for employers to mistreat employees because of their race, color, religion, sex, or national origin?|Title VII of the Civil Rights Act of 1964
