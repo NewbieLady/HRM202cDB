@@ -38,3 +38,4 @@ True or False: If an organization is known to adhere to compliance regulations s
 Which of the following is a type of organization that monitors compliance across all industries?|Federal governing bodies
 An organization requires all employees to complete online training on ethical behavior in the workplace. What type of compliance is this an example of?|Organizational compliance
 Which of the following is true about the role of compliance in an organization's operations?|Compliance helps to mitigate risk
+When approaching risk with a positive mindset, why is it important to emphasize open communication?|When communication is valued, everyone in the organization is more confident to share potential risks.
