@@ -19,3 +19,12 @@ What union is a collection of national unions representing employers in related 
 What term describes unfair and unjust treatment based on characteristics such as race, gender, or disability, which is prohibited by law?|Illegal discrimination
 Which of the following are key elements of affirmative action programs? Select all that apply.|Utilization Analysis$Developing Action Steps$Developing Goals and Timetables
 According to the Equal Pay Act and the Fair Pay Act, what laws must organizations follow regarding compensation?|Workers must receive equal pay for equal work regardless of gender
+What does the Americans with Disabilities Act (ADA) require employers to do?|Accommodate employees with disabilities by making reasonable accommodations in the workplace
+Which of the following describes protected classes?|Groups of people legally protected from harm or harassment by laws, practices, and policies that discriminate against them due to a shared characteristic
+Which of the following statements best describes systemic discrimination?|A pattern and practice of treating employees in an unfair way rather than singular, isolated incidences of unfair treatment
+An HR team aims to remove discriminatory barriers that prevent underrepresented groups from advancing in the workplace. Which of the following is an example of this?|Ensuring equal pay
+As part of an affirmative action program, an HR executive conducts a utilization analysis. What rule can they use to determine underutilization?|The 80% rule, that enables organizations to bypass underutilization
+What license grants the inventor the exclusive right to use or sell an invention for a set amount of time?|Patent
+What is the role of the Taft-Hartley Act in labor relations?|It identifies certain union activities as "unfair labor practices"
+Fill in the blank: Union employees can _____ the union if they are unhappy with its performance.|decertify
+What is the role of the Fair Labor Standards Act (FLSA)?|It sets basic minimum wage and overtime pay standards for nonexempt employees and regulates the employment of minors
