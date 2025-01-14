@@ -41,3 +41,4 @@ Which type of pay compensates employees for their time outside of normal working
 True or False: Reporting pay is not required under the federal Fair Labor Standard Act (FLSA).|True
 An HR manager aims to evaluate the differences in cost of living to help them determine the salary levels in different locations. How can they find this information?|Use the Cost of Living Index provided by the Council for Community and Economic Research
 True or False: Company incentives include bonuses, commissions, profit sharing, and life insurance.|False
+An organization creates a compensation program to reward employees fairly for their achievements. Which of the following can they include in their compensation program to achieve this?|Weekly or monthly salaries
