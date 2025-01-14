@@ -53,7 +53,6 @@ An HR manager is trying to define how they perceive, assess, and respond to risk
 An HR manager is attempting to approach risk with a negative mindset. Which of the following is a benefit of this mindset?|Inspires rational thinking
 A design firm holds a weekend retreat to refresh workers on the values and ethics that the firm has committed to. What type of compliance is this an example of?|Organizational compliance
 What does COBRA ensure for employees?|COBRA ensures that employees receive all their medical records from an employer after being terminated or resigning
-What is a cyber security "quid pro quo" attack?|A deceptive tactic where cyber criminals send fraudulent messages that act as bait, enticing recipients to disclose valuable information.
 A company wants to close down their in-store sales division to focus on the more profitable online sales division. What is this process known as?|Concentration
 A clothing company has been working toward expansion. They've noticed a complimentary shoe store that is marketing to the same audience. The clothing company offers to combine their two companies and create one new, joint venture. Which of the following stages of restructuring does this describe?|Merger
 An HR professional is assisting with a downsizing effort at their organization. Which of the following actions will help the employees being let go?|Establish outplacement support
@@ -91,3 +90,9 @@ What is the first step in preparing a business continuity plan?|Conduct a busine
 Which of the following processes should include an introduction to organizational procedures, including safety and risk management for new employees?|Onboarding
 What is a safety walk?|An informal training opportunity where issues and concerns are identified.
 In addition to state and federal governments, what other group might require compliance training?|The organization itself
+In the context of risk management, what do negative risks refer to?|Events beyond the organization's control that can hurt the organization
+What type of workplace hazard is a specific activity, condition, or contaminated object that might expose an employee to an infectious disease.|Biological
+What generally occurs if an organization goes through downsizing?|Jobs need to be eliminated to maintain or improve the organization's productivity
+What term describes the elimination of jobs in an organization to improve productivity?|Downsizing
+What is a furlough?|A mandatory, usually temporary, suspension from work.
+Which of the following is a common HR task associated with risk management?|Identify and comply with laws
