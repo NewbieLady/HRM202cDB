@@ -96,3 +96,14 @@ What generally occurs if an organization goes through downsizing?|Jobs need to b
 What term describes the elimination of jobs in an organization to improve productivity?|Downsizing
 What is a furlough?|A mandatory, usually temporary, suspension from work.
 Which of the following is a common HR task associated with risk management?|Identify and comply with laws
+What action can a union take that terminates the union’s right to represent them?|Decertify
+What term describes an instance where one organization purchases and absorbs another organization?|Acquisitions
+What term describes the amount of copyrighted work that can be used without permission under certain circumstances?|Fair use doctrine limit
+In what phase might an HR professional create a process map of another organization?|Merger
+What term describes an instance where one organization purchases and absorbs another organization?|Acquisitions
+In addition to the purpose and scope of a risk management policy, which of the following is also important to include?|Reporting process for risk
+Which of the following acts requires that employers pay genders the same for similar work, regardless of job titles?|Equal Pay Act of 1963
+Which of the following is a strategy organizations can use to mitigate or eliminate risks?|Modify the risk by adopting programs and plans to reduce the likelihood of a risk occurring
+A hostile work environment can include many things like discussing sexual activities or using offensive language. What is another activity that may be an aspect of a hostile work environment?|Sabotaging someone’s work
+Fill in the blank: _____ should include the completion of required organization, local, or federal training.|Orientation
+What is a cyber security “quid pro quo” attack?|A tactic where cybercriminals make random calls to individuals within an organization, pretending they are from the tech support team.
