@@ -38,3 +38,7 @@ Which of the following is a type of organization that monitors compliance across
 An organization requires all employees to complete online training on ethical behavior in the workplace. What type of compliance is this an example of?|Organizational compliance
 Which of the following is true about the role of compliance in an organization's operations?|Compliance helps to mitigate risk
 When approaching risk with a positive mindset, why is it important to emphasize open communication?|When communication is valued, everyone in the organization is more confident to share potential risks.
+How can compliance positively affect an organization's operations?|Adhering to compliance rules builds trust with employees, customers, and clients
+What does the HR manager do in the “assess the risks” stage of the risk management process?|Determine the chance of a particular risk occurring and the financial impact on the organization if it does.
+What type of thinking does risk management with a negative mindset generally lead to?|Rational
+Which of the following is a strategy organizations can use to mitigate or eliminate risks?|Outsource the risky activity to a vendor
