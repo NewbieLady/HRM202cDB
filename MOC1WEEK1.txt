@@ -18,3 +18,6 @@ Who are individuals that agree to do specific work for other people or organizat
 What type of worker provides greater flexibility for an organization because they can be employed for just a few days or a full year, depending on the business' needs.|Temporary Employee
 Fill in the blank: companies like Lyft, Uber, Instacart, and Doordash use ____ to accomplish thousands of jobs quickly and efficiently.|Gig workers
 What entitles eligible employees up to a 12 week absence for reasons like the birth of a child or to care for a spouse? ?|Family and Medical Leave Act
+What method for forecasting workforce needs is based on the expectation of how particular employment-related factors may change over time.|Trend predictions
+True or false: Succession plans forecast needs and talent one to five years into the future.|True
+True or false: Independent contractors are considered employees by an organization.|False
