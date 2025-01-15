@@ -20,3 +20,15 @@ What method for forecasting workforce needs is based on the expectation of how p
 True or false: Succession plans forecast needs and talent one to five years into the future.|True
 True or false: Independent contractors are considered employees by an organization.|False
 Alva is an hourly worker at Urban Attire, making $15 an hour, and is paid overtime when they work more than 40 hours a week. What type of worker is Alva?|Nonexempt employees
+What law mandates that employers specify whether duties and tasks will require mandatory overtime?|Fair Labor Standards Act
+The relational approach evaluates a specific job stage or site and focuses the _____ of job tasks within a process and the relationships of workers to each other and the end-user.|position
+Your staffing agency found you a short-term job working at Connective for three months while they go through the hiring process for full-term employees. What type of worker are you?|A temporary employee
+What type of work arrangement allows employees to work from home, but requires that they live within a few hours of their place of employment.|Telecommuting
+Alva is an hourly worker at Urban Attire, making $15 an hour, and is paid overtime when they work more than 40 hours a week. What type of worker is Alva?|Nonexempt employees
+As a member of the HR team at Urban Attire, you realize that sales are projected to increase during the holiday season, as it has during every previous holiday season since the store opened. After speaking to others on the HR team, you decide to hire five new salespeople. This is an example of what method to forecast workforce needs?|Trend predictions
+What job design approach focuses on the position of a task within a process?|Relational
+Rae works for Connective on a project-to-project basis. Right now, Rae is creating a new software to streamline the buying process for both customers and salespeople. What type of worker is Rae?|An independent contractor
+According to the Family and Medical Leave Act, eligible employees can take up to _____ weeks of unpaid leave for specific family and medical reasons?|12
+What type of worker is required to be paid minimum wage and, when necessary, overtime pay, as stated by the Fair Labor Standards Act (FLSA)?|Nonexempt employees
+Reviewing your organization’s past performance and how these factors correspond to person-hour needs is a good way to begin what forecasting approach?|Trend predictions
+Your staffing agency found you a short-term job working at Connective for three months while they go through the hiring process for full-term employees. What type of worker are you?|A telecommuter
