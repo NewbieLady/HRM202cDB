@@ -31,3 +31,10 @@ True or False: A non-compete clause states that an employee cannot seek employme
 What does a successful orientation program enable? Select three that apply.|New hires can resolve issues$New hires can make informed decisions$New hires can comfortably ask questions
 During an employee's first day, they receive information regarding employee procedures, policies, and benefits. What did they receive?|An employee handbook
 Which best practice will help HR determine how satisfied employees are with an organization?|Conduct stay interviews
+During salary negotiations, what is the "walk away point"?|When a candidate asks for the reservation price
+What clause includes information about any severance an organization might owe an employee?|Termination clause
+What is employee onboarding?|Welcoming people recruited into the organization and its culture
+An HR manager aims to create an inclusive onboarding process for new employees. How can they assess whether they are achieving this goal?|Collect data and feedback from new employees
+When an employee joins an organization, the HR team places them on payroll, signs them up for benefits, and introduces them to the organization’s culture. What is this process known as?|Orientation
+An HR team member helps new employees learn about the organization's policies and procedures. They go over the employees’ responsibilities and highlight the organization’s culture. What is this process known as?|Onboarding
+What type of interview uses open-ended questions and allows the candidate to guide the conversation?|Non-directive interview
